@@ -1,0 +1,3 @@
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\x64\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\x64\Debug\AxInterop.WMPLib.dll

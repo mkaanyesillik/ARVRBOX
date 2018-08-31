@@ -1,0 +1,127 @@
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe.config
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csprojResolveAssemblyReference.cache
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Form1.resources
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Properties.Resources.resources
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.GenerateResource.Cache
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Baslangic.resources
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.ResolveComReference.cache
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\source\repos\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csprojResolveAssemblyReference.cache
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.ResolveComReference.cache
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Baslangic.resources
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Form1.resources
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Properties.Resources.resources
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.GenerateResource.Cache
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe.config
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe.config
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.ResolveComReference.cache
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Baslangic.resources
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Form1.resources
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Properties.Resources.resources
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.GenerateResource.Cache
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Tema_Belirle.resources
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csprojResolveAssemblyReference.cache
+C:\Users\mkaan\Desktop\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.DosyaEkle.resources
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe.config
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.pdb
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.AXVLC.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.WMPLib.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.AXVLC.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.WMPLib.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csprojResolveAssemblyReference.cache
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.AXVLC.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.WMPLib.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.AXVLC.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.WMPLib.dll
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.ResolveComReference.cache
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Baslangic.resources
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.DosyaEkle.resources
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Form1.resources
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Properties.Resources.resources
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Tema_Belirle.resources
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.GenerateResource.cache
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.CoreCompileInputs.cache
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.exe
+D:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.pdb
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe.config
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.pdb
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.AXVLC.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.WMPLib.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.AXVLC.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.WMPLib.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csprojResolveAssemblyReference.cache
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.AXVLC.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.WMPLib.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.AXVLC.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.WMPLib.dll
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.ResolveComReference.cache
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Baslangic.resources
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.DosyaEkle.resources
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Form1.resources
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Properties.Resources.resources
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Tema_Belirle.resources
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.GenerateResource.cache
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.CoreCompileInputs.cache
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.exe
+E:\Kaan\Project\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe.config
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\SanalOtobusSofor.pdb
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\Interop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.ResolveComReference.cache
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Baslangic.resources
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.DosyaEkle.resources
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Form1.resources
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Properties.Resources.resources
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.Tema_Belirle.resources
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.GenerateResource.cache
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.exe
+C:\Users\mkaan\Desktop\SanalOtobus Mytek\SanalOtobusSofor\SanalOtobusSofor\SanalOtobusSofor\obj\Debug\SanalOtobusSofor.pdb
